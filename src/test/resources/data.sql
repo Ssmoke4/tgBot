@@ -1,0 +1,1 @@
+insert into INCOME (id,chat_id,spend) values (345345L,2,700);
